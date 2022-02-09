@@ -1,0 +1,23 @@
+
+ OS Version: 5.4.86-android11-2-00006-gae78026f427c-ab7595864(7800151)
+ OS API Level: 30
+ Device: generic_x86_64_arm64
+ Model (and Product): sdk_gphone_x86_64_arm64 (sdk_gphone_x86_64_arm64)
+ RELEASE: 11
+ BRAND: google
+ DISPLAY: sdk_gphone_x86_64_arm64-userdebug 11 RSR1.210722.013 7800151 dev-keys
+ CPU_ABI: x86_64
+ CPU_ABI2: arm64-v8a
+ UNKNOWN: unknown
+ HARDWARE: ranchu
+ Build ID: RSR1.210722.013
+ MANUFACTURER: Google
+ SERIAL: unknown
+ USER: android-build
+ HOST: abfarm-east4-074
+Yehonatan Zion 0508113876
+Noa Tzur 0507648763
+Edgar Ruimi 0506789345
+Maor Tov (524) 587-1525
+Noa Tzur 0508113070
+Ariel Israeli 0508113075
